@@ -9,7 +9,7 @@
 ## Usage Guide
 
 * Refer to file [markdown-guide.md](./markdown-guide.md)
-* The guide itself is also written in markdown.
+* The guide itself is written in markdown.
 * GitHub should render most of the markdown as expected.
 * For live preview or practice, use any of the tools listed below
 
