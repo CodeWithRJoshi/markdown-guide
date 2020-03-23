@@ -32,3 +32,11 @@
 4. Push the changes to your repo
 5. Open a pull request at [CodeWithRJoshi/markdown-guide](https://github.com/CodeWithRJoshi/markdown-guide)
 6. Community members can make comments on your changes. Editors will verify and ask to make changes, if required. Changes will be either merged or denied.
+
+##  Resources
+
+- [CommonMark](https://commonmark.org): A strongly defined, highly compatible specification of Markdown
+
+- [Writing and Formatting on GitHub](https://help.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
